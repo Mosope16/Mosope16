@@ -20,10 +20,10 @@ I'm a Computer Engineering undergraduate with a strong interest in software engi
 
 ### Languages
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Databases & Tools
 
@@ -61,8 +61,8 @@ A project exploring thoughtful digital experiences and application development.
 ## GitHub Statistics
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=Mosope16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165" alt="Mosope's GitHub statistics" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mosope16&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Mosope's most-used languages" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mosope16&theme=tokyonight" height="165" alt="Mosope's GitHub statistics" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mosope16&theme=tokyonight" height="165" alt="Mosope's repositories by language" />
 </p>
 
 <p align="center">
