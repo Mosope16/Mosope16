@@ -12,7 +12,6 @@ I'm a Computer Engineering undergraduate with a strong interest in software engi
 - 🎓 Computer Engineering student at [Redeemer's University](https://run.edu.ng/)
 - 💻 Building full-stack applications and software systems
 - 🧠 Exploring machine learning, AI, and intelligent systems
-- 🔐 Interested in cybersecurity and automotive security research
 - 🌱 Constantly learning, experimenting, and improving
 - 🤝 Open to interesting projects, collaborations, and opportunities
 
